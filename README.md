@@ -1,1 +1,2 @@
-# digital
+# Digital Company
+Digital Software : company landing page website designed by html, css3, jQuery and plugins like mixitup, bxslider, and nicescroll...
